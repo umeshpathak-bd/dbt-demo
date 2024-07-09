@@ -1,5 +1,10 @@
 Welcome to your new dbt project!
 
+
+![image](https://github.com/umeshpathak-bd/dbt-demo/assets/71368718/804890bb-8472-4acd-97ad-88e95bad9688)
+
+
+
 ### Using the starter project
 
 Try running the following commands:
