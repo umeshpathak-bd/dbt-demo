@@ -1,0 +1,10 @@
+dbt_demo:
+  target: dev
+  outputs:
+    dev:
+      host: localhost
+      method: thrift
+      schema: dev.db
+      port: 10001
+      threads: 3
+      type: spark
